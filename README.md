@@ -1,6 +1,7 @@
 # KN Bank — Java Console Banking Application
 
 KN Bank is a console-based Java banking application backed by MySQL. It demonstrates account registration and login, profile management, balance checks, account-to-account transfers, and transaction history.
+**Website:** [KN Bank](https://knbank.vercel.app/)
 
 ## Features
 
@@ -69,9 +70,6 @@ jdbc:mysql://localhost:3306/mydata
 ## Run the Application
 
 `Atm.java` contains the `main` method and is the program entry point.
-```bash
-**Website preview:** [KN Bank — Java Banking, Made Tangible](https://knbank.vercel.app/)
-```
 
 ### From the command line
 
