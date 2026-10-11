@@ -70,7 +70,7 @@ jdbc:mysql://localhost:3306/mydata
 
 `Atm.java` contains the `main` method and is the program entry point.
 ```bash
-**Website preview:** [KN Bank — Java Banking, Made Tangible](https://8328-i8iljjr411i67s2hysip6-b4057fe2.us4.manus.computer/ )
+**Website preview:** [KN Bank — Java Banking, Made Tangible](https://knbank.vercel.app/)
 ```
 
 ### From the command line
